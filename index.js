@@ -4,6 +4,5 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
-  var name = prompt('What is your name?')
   return `Happy holidays, ${name}!`
 }
